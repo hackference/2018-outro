@@ -1,0 +1,16 @@
+body {
+    background: #4cc2f1;
+}
+.reveal,
+.reveal h1,
+.reveal h2 {
+    color: #fff;
+}
+.reveal a {
+    color: #ebebeb;
+}
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+    background: none;
+}
