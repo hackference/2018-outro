@@ -1,4 +1,4 @@
 
 ![](resources/hackference-white.svg)
 
-# 2017
+# 2018
